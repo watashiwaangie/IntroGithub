@@ -6,3 +6,4 @@
 
 
 ### Insertando una imagen
+![amplificador](imagen/CIRCUITO.png)
